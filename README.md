@@ -1,0 +1,1 @@
+# Infotact_Project_3_Image_Segmentaionfor_Disaster_Resilience
